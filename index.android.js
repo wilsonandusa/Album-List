@@ -5,7 +5,7 @@ import AlbumList from './src/components/AlbumList';
 
 const App = () => (
   <View>
-    <Header headerText={'Eminem'} />
+    <Header headerText={'Eminem-Wilson'} />
     <AlbumList />
   </View>
 );
